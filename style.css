@@ -1,0 +1,17 @@
+.image{
+    height: 450px;
+    width: 600px;
+}
+
+.container{
+    text-align: center;
+}
+.card {
+    
+    width: 400px;
+}
+
+.card image{
+    height:150 ;
+    width: 100;
+}
